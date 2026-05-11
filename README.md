@@ -18,3 +18,4 @@ and the image file, t10k-images-idx3-ubyte contains 7,840,016 bytes.
 This tool reads either test or train files and show image data and lavel
 for each image.
 
+![Test Image 1](image.png)
